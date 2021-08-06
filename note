@@ -1,0 +1,6 @@
+
+l   d  F  Y  H: i: s
+%A %d %B %Y %H:%M:%S
+
+formatLocalized("%A, %d %B %Y %H:%M:%S")
+formatLocalized("%A, %d %B %Y")
